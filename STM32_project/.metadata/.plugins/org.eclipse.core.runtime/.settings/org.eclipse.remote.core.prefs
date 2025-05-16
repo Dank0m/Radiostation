@@ -1,0 +1,6 @@
+connections/org.eclipse.remote.serial.core.connectionType/MeoW/serial.baudRate=11
+connections/org.eclipse.remote.serial.core.connectionType/MeoW/serial.byteSize=3
+connections/org.eclipse.remote.serial.core.connectionType/MeoW/serial.parity=0
+connections/org.eclipse.remote.serial.core.connectionType/MeoW/serial.portName=COM1
+connections/org.eclipse.remote.serial.core.connectionType/MeoW/serial.stopBits=0
+eclipse.preferences.version=1

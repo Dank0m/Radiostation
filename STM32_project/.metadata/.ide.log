@@ -1,0 +1,36 @@
+2025-05-13 02:50:10,566 [INFO] I2cTimingTraitement:330 - 0x10805D88
+2025-05-13 02:50:17,447 [INFO] I2cTimingTraitement:330 - 0x10805D88
+2025-05-13 02:50:30,188 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 596828528 Bytes (866123776)
+2025-05-13 02:50:31,921 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 616225136 Bytes (866123776)
+2025-05-13 02:50:32,403 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 649257328 Bytes (866123776)
+2025-05-13 02:50:32,710 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-05-13 02:50:32,710 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2025-05-13 02:50:32,710 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-05-13 02:50:32,711 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-05-13 02:50:32,711 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-05-13 02:50:32,711 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2025-05-13 02:50:32,713 [INFO] CodeGenerator:882 - code generatio: config db path: D:\STM32CubeIDE_1.18.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.1.202504091515\\db\
+2025-05-13 02:50:32,847 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\User\Downloads\12_i2c_oled_display\oledControl\MXTmpFiles\license.tmp_save
+2025-05-13 02:50:33,070 [INFO] CodeEngine:287 - Generated code: C:\Users\User\Downloads\12_i2c_oled_display\oledControl\MXTmpFiles\license.tmp
+2025-05-13 02:50:33,121 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\User\Downloads\12_i2c_oled_display\oledControl\MXTmpFiles\gpio.tmp_save
+2025-05-13 02:50:33,311 [INFO] CodeEngine:287 - Generated code: C:\Users\User\Downloads\12_i2c_oled_display\oledControl\MXTmpFiles\gpio.tmp
+2025-05-13 02:50:33,489 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\User\Downloads\12_i2c_oled_display\oledControl\Core\Src\stm32f0xx_it.c_save
+2025-05-13 02:50:33,709 [INFO] CodeEngine:287 - Generated code: C:\Users\User\Downloads\12_i2c_oled_display\oledControl\Core\Src\stm32f0xx_it.c
+2025-05-13 02:50:33,720 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\User\Downloads\12_i2c_oled_display\oledControl\Core\Inc\stm32f0xx_it.h_save
+2025-05-13 02:50:33,801 [INFO] CodeEngine:287 - Generated code: C:\Users\User\Downloads\12_i2c_oled_display\oledControl\Core\Inc\stm32f0xx_it.h
+2025-05-13 02:50:33,828 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\User\Downloads\12_i2c_oled_display\oledControl\Core\Src\stm32f0xx_hal_msp.c_save
+2025-05-13 02:50:33,949 [INFO] CodeEngine:287 - Generated code: C:\Users\User\Downloads\12_i2c_oled_display\oledControl\Core\Src\stm32f0xx_hal_msp.c
+2025-05-13 02:50:33,965 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\User\Downloads\12_i2c_oled_display\oledControl\MXTmpFiles\system.tmp_save
+2025-05-13 02:50:34,030 [INFO] CodeEngine:287 - Generated code: C:\Users\User\Downloads\12_i2c_oled_display\oledControl\MXTmpFiles\system.tmp
+2025-05-13 02:50:34,056 [INFO] CodeEngine:319 - oldGeneratedFile, C:\Users\User\Downloads\12_i2c_oled_display\oledControl\Core\Inc\stm32f0xx_hal_conf.h_save
+2025-05-13 02:50:34,125 [INFO] CodeEngine:343 - Generated code: C:\Users\User\Downloads\12_i2c_oled_display\oledControl\Core\Inc\stm32f0xx_hal_conf.h
+2025-05-13 02:50:34,162 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\User\Downloads\12_i2c_oled_display\oledControl\Core\Inc\main.h_save
+2025-05-13 02:50:34,259 [INFO] CodeEngine:287 - Generated code: C:\Users\User\Downloads\12_i2c_oled_display\oledControl\Core\Inc\main.h
+2025-05-13 02:50:34,278 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\User\Downloads\12_i2c_oled_display\oledControl\Core\Src\main.c_save
+2025-05-13 02:50:34,381 [INFO] CodeEngine:287 - Generated code: C:\Users\User\Downloads\12_i2c_oled_display\oledControl\Core\Src\main.c
+2025-05-13 02:50:34,858 [INFO] ProjectBuilder:3324 - Time for Copy HAL[1] : 249mS.
+2025-05-13 02:50:34,864 [INFO] ProjectBuilder:4912 - Project Generator version: 4.6.0.1-B1
+2025-05-13 02:50:34,991 [INFO] ConfigFileManager:1590 - The Die is : DIE440
+2025-05-13 02:50:35,955 [INFO] ProjectBuilder:5191 - Time for Generating toolchain IDE Files: 1091mS.
+2025-05-13 02:50:35,957 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 0mS.
+2025-05-13 02:50:35,960 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 0mS.
